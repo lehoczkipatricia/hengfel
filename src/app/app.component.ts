@@ -26,6 +26,7 @@ export class AppComponent {
     this.length = "";
     this.surface = 0;
     this.pastCalc = "";
+    console.log("Név: Lehoczki Patrícia  Osztály: Szoft II/Nn  Készítés dátuma: 2022.01.13")
   }
 
   calcSurface(): any {
@@ -36,4 +37,7 @@ export class AppComponent {
     
 
   }
+
+
+  
 }
